@@ -1,0 +1,4 @@
+payload:
+  - '+.sonygst.loris-e.llnwd.net'
+  - '+.playstation.com'
+  - '+.playstation.net'
