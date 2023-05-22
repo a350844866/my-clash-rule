@@ -1,5 +1,5 @@
 payload:
   - '+.akamaized.net'
   - '+.jetbrains.com'
-  - '+.nintendo.com'
+  - '+.nintendo.net'
   - 'tlu.dl.delivery.mp.microsoft.com'
