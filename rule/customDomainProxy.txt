@@ -1,4 +1,5 @@
 payload:
   - '+.xsus.buzz'
   - '+.vpnpro.com'
-  - '+.bulianglin.com'
+  - '+.lihi1.com'
+  - '+.geekhub.com'

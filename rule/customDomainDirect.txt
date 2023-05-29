@@ -5,3 +5,4 @@ payload:
   - '+.dl.delivery.mp.microsoft.com'
   - '+.xboxlive.com'
   - '+.docker.com'
+  - '+.purge.jsdelivr.net'
