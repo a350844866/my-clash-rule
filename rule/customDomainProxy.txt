@@ -3,3 +3,4 @@ payload:
   - '+.vpnpro.com'
   - '+.lihi1.com'
   - '+.geekhub.com'
+  - '+.bulianglin.com'
