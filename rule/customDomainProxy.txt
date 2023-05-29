@@ -4,3 +4,4 @@ payload:
   - '+.lihi1.com'
   - '+.geekhub.com'
   - '+.bulianglin.com'
+  - '+.v2rayssr.com'
