@@ -5,3 +5,4 @@ payload:
   - '+.geekhub.com'
   - '+.bulianglin.com'
   - '+.v2rayssr.com'
+  - '+.ahhhhfs.com'
