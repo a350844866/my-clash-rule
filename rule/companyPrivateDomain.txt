@@ -1,3 +1,4 @@
 payload:
   - '+.ctc.com'
   - '+.zjtelecom.cn'
+  - '+.chinatelecom.cn'
