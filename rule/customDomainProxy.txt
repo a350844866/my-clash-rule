@@ -6,3 +6,4 @@ payload:
   - '+.bulianglin.com'
   - '+.v2rayssr.com'
   - '+.ahhhhfs.com'
+  - '+.telegram-store.com'
