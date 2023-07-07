@@ -6,3 +6,4 @@ payload:
   - '+.xboxlive.com'
   - '+.docker.com'
   - '+.purge.jsdelivr.net'
+  - '+.xsus.io'
