@@ -1,1 +1,1 @@
-# my-clash-rule
+## clash rule for myself
