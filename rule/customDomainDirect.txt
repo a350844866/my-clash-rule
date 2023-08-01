@@ -1,6 +1,5 @@
 payload:
   - '+.akamaized.net'
-  - '+.jetbrains.com'
   - '+.nintendo.net'
   - '+.dl.delivery.mp.microsoft.com'
   - '+.xboxlive.com'
