@@ -3,7 +3,6 @@ payload:
   - '+.nintendo.net'
   - '+.dl.delivery.mp.microsoft.com'
   - '+.xboxlive.com'
-  - '+.docker.com'
   - '+.purge.jsdelivr.net'
   - '+.xsus.io'
   - 'csgo.wmsj.cn'
