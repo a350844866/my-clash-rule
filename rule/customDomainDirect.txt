@@ -2,7 +2,6 @@ payload:
   - '+.akamaized.net'
   - '+.nintendo.net'
   - '+.dl.delivery.mp.microsoft.com'
-  - '+.xboxlive.com'
   - '+.purge.jsdelivr.net'
   - '+.xsus.io'
   - 'csgo.wmsj.cn'
