@@ -20,3 +20,6 @@ payload:
   - '+.steamchina.com'
   - '+.steamcontent.com'
   - '+.steamusercontent.com'
+  - '+.liulin.org'
+  - '+.liulin.work'
+
