@@ -6,3 +6,5 @@ payload:
   - '+.v2rayssr.com'
   - '+.ahhhhfs.com'
   - '+.telegram-store.com'
+  - '+.codeium.com'
+  - '+.oaipro.com'
